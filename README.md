@@ -1,1 +1,1 @@
-Demo : [Link](https://fullstack.edu.vn/external-url?continue=https%3A%2F%2Fxmax034.github.io%2FMusic-Player%2F) (vẫn còn 1 số bug chưa fix được)
+Demo : [Link](https://xmax034.github.io/Music-Player/) (vẫn còn 1 số bug chưa fix được)
