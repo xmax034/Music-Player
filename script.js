@@ -150,7 +150,7 @@ const lists = {
             }
         }
         //Change-Time
-        progres.onchange = function(e) {
+        progres.oninput = function(e) {
             const seekTime = audio.duration / 100 * e.target.value;
             audio.currentTime = seekTime;
         }
